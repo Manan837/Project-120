@@ -1,3 +1,7 @@
+body{
+    background-color: dimgrey;
+}
+
 p{
     color: red;
     letter-spacing: 1px;
@@ -13,7 +17,7 @@ span{
 }
 
 .bottom{
-    color: red;
+    color: white;
     position: fixed;
     bottom: 0;
     text-align: center;
@@ -62,4 +66,10 @@ span{
 h4{
     color: white;
     font-weight: bold;
+}
+
+#conclusion{
+    width: 50%;
+    margin: 50px;
+    color: whitesmoke;
 }
